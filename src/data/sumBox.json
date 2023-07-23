@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "sum": 1000000,
+        "active": true
+    },
+    {
+        "id": 2,
+        "sum": 5000000,
+        "active": false
+    },
+    {
+        "id": 3,
+        "sum": 7000000,
+        "active": false
+    },
+    {
+        "id": 4,
+        "sum": 10000000,
+        "active": false
+    },
+    {
+        "id": 5,
+        "sum": 30000000,
+        "active": false
+    },
+    {
+        "id": 6,
+        "sum": 0,
+        "active": false
+    }
+]

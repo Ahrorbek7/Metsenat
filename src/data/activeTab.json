@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "class": "left",
+        "active": true,
+        "title": "Jismoniy shaxs"
+    },
+    {
+        "id": 2,
+        "class": "right",
+        "active": false,
+        "title": "Yuridik shaxs"
+    }
+]
